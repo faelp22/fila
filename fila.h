@@ -1,11 +1,12 @@
 /* 
  * File:   fila.h
- * Author: Isael Sousa <faelp22@hotmail.com>
+ * Author: Isael Sousa <faelp22@gmail.com>
  *
  * Created on 30 de Setembro de 2015, 11:36
  */
 
 #ifndef FILA_H
+#define	FILA_H
 
 #define TAMANHO 10
 

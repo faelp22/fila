@@ -1,6 +1,8 @@
 nbproject/
 build/
 dist/
-Makefile
 .dep.inc
 .directory
+.vscode
+fila
+*.o

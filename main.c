@@ -1,6 +1,6 @@
-/* 
+/*
  * File:   main.cpp
- * Author: Isael Sousa <faelp22@hotmail.com>
+ * Author: Isael Sousa <faelp22@gmail.com>
  *
  * Created on 30 de Setembro de 2015, 11:36
  */
@@ -29,7 +29,7 @@ int main(int argc, char const *argv[])
 	printf("posicao do inicio %d posicao do fim %d\n", f1.inicio, f1.fim);
 	insere(&f1, 90);
 	printf("posicao do inicio %d posicao do fim %d\n", f1.inicio, f1.fim);
-	
+
 	imprime_fila(&f1);
 	printf("invertido \n");
 	inverte_fila(&f1);
@@ -48,7 +48,7 @@ int main(int argc, char const *argv[])
 	printf("invertendo de novo\n");
 	inverte_fila(&f1);
 	imprime_fila(&f1);
-	
+
 	retira(&f1);
 	printf("posicao do inicio %d posicao do fim %d\n", f1.inicio, f1.fim);
 	imprime_fila(&f1);
